@@ -4,12 +4,12 @@ I'm a **Software Engineer** passionate about building impactful digital experien
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔧 I love designing clean user interfaces and building efficient backend systems  
-- 💡 I enjoy solving real-world problems through code and continuous learning  
-- 🌐 Interested in web, mobile, and AI-driven development   
-- 💼 Open to freelance, collaboration, or full-time opportunities  
+- I love designing clean user interfaces and building efficient backend systems  
+- I enjoy solving real-world problems through code and continuous learning  
+- Interested in web, mobile, and AI-driven development   
+- Open to freelance, collaboration, or full-time opportunities  
 
 ---
 
