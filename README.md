@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dina
+# Hi, I'm Dina
 
 I'm a **Software Engineer** passionate about building impactful digital experiences. I work on full-stack development, automation tools, and intelligent systems using modern technologies like **JavaScript**, **Dart/Flutter**, **Python**, and **MySQL**.
 
@@ -13,7 +13,7 @@ I'm a **Software Engineer** passionate about building impactful digital experien
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -38,11 +38,11 @@ I'm a **Software Engineer** passionate about building impactful digital experien
 
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 🌐 Portfolio: ...............
-- 📬 Email: dchokri2050@gmail.com 
+- Portfolio: ...............
+- Email: dchokri2050@gmail.com 
 
 ---
 
-_Thanks for visiting my profile! ⭐ Feel free to explore my repositories or reach out for collaboration._
+_Thanks for visiting my profile! 
