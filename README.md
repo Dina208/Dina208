@@ -41,7 +41,7 @@ I'm a **Software Engineer** passionate about building impactful digital experien
 ##  Let's Connect
 
 - Portfolio: ...............
-- Email: dchokri2050@gmail.com 
+- Email: dina.chokri.dev@gmail.com
 
 ---
 
